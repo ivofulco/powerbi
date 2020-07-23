@@ -1,0 +1,6 @@
+To get data from an online source and display via the dashboard in Power BI you basically need 4 steps that we'll see in detail below:
+
+1º - Selecting the data from an authorized website
+2º - Importing data into Microsoft Power BI
+3º - Processing the data received
+4º - Displaying selected data
